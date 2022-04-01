@@ -1,0 +1,5 @@
+dbname :  RegisterNews
+collection: RegisteresUsers
+dbname2 : CategoryDb
+collection2 : CategoryData
+collection3 : articleData
